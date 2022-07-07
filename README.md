@@ -169,6 +169,6 @@ html,body{
 
 ```
 
-That’s all, now you’ve successfully created an Awesome Image Comparison Slider using HTML CSS & JavaScript. If your code doesn’t work or you’ve faced any error/problem then please download the source code files . It’s free and a .zip file will be downloaded then you’ve to extract it.
+That’s all, now you’ve successfully created an Awesome Image Comparison Slider using HTML CSS & JavaScript. If your code doesn’t work or you’ve faced any error/problem then please [download](https://github.com/zionashirwada/Image-comparison-Slider/archive/refs/heads/main.zip)the source code files . It’s free and a .zip file will be downloaded then you’ve to extract it.
 
 
